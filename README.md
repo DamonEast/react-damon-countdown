@@ -1,6 +1,6 @@
 ## react-damon-countdown
-###Installation
-	npm i -S react-damon-countdown
+### Installation
+npm i -S react-damon-countdown
 react component
 		
 	import React, { Component } from 'react'
