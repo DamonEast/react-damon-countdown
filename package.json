@@ -1,0 +1,36 @@
+{
+  "name": "react-damon-countdown",
+  "version": "1.0.0",
+  "description": "基于react倒计时组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compiler": "babel src --out-dir dist --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonEast/react-damon-countdown.git"
+  },
+  "keywords": [
+    "react",
+    "countdown"
+  ],
+  "author": "DamonEast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonEast/react-damon-countdown/issues"
+  },
+  "homepage": "https://github.com/DamonEast/react-damon-countdown#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-transform-runtime": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "core-js": "^3.6.5"
+  }
+}
